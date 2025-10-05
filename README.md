@@ -88,12 +88,4 @@ Arrays with duplicates
 size,comparisons,swaps,arrayAccesses,time(ms)
 1000,499500,999,2000000,2.314
 
-📦 Project Structure
-Selection-Sort/
- ├── pom.xml
- ├── README.md
- ├── src/
- │   ├── main/java/algorithms/Selection_Sort.java
- │   ├── main/java/cli/BenchmarkRunner.java
- │   └── main/java/metrics/Metrics.java
- └── src/test/java/algorithms/Selection_SortTest.java
+
